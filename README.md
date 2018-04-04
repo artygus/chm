@@ -1,2 +1,2 @@
 # chm
-joystiCk Hid Manager
+maC Hid Manager
